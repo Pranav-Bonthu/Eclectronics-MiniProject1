@@ -20,5 +20,5 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# scratch output from tools/generate_assets.ps1
+# scratch output from local tooling
 .tmp/
