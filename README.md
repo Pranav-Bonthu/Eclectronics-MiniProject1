@@ -24,7 +24,7 @@ PDF: [`docs/kicad-schematic.pdf`](docs/kicad-schematic.pdf)
 | <img src="images/pcb-3d-top.png" alt="Top of the board"> | <img src="images/pcb-3d-bottom.png" alt="Bottom of the board"> |
 
 
-| Front (F.Cu + silkscreen) | Back (B.Cu) |
+| Front (F.Cu ) | Back (B.Cu) |
 |---|---|
 | <img src="images/pcb-front.png" alt="Front copper and silkscreen"> | <img src="images/pcb-back.png" alt="Back copper"> |
 
