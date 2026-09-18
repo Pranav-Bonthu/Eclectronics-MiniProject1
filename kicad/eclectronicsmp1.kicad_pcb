@@ -771,6 +771,17 @@
 				)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "LTST_C171KRKT:LED_LTST-C171_LTO"
@@ -1067,6 +1078,17 @@
 			(pintype "unspecified")
 			(uuid "032945d3-1446-4e35-a6c6-ec4d79dc7cc4")
 		)
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "C0603C105K3RACTU:CAPC17595_95N_KEM"
@@ -1349,6 +1371,17 @@
 				(pts
 					(xy 211.053599 112.075801) (xy 211.401999 112.075801) (xy 211.401999 112.924199) (xy 211.053599 112.924199)
 				)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 		(embedded_fonts no)
@@ -1655,6 +1688,17 @@
 				)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "RC0603FR_0760K4L:RC0603N_YAG"
@@ -1957,6 +2001,17 @@
 				(pts
 					(xy 211.6176 110.8556) (xy 210.9318 110.8556) (xy 210.9318 110.1444) (xy 211.6176 110.1444)
 				)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 		(embedded_fonts no)
@@ -2529,6 +2584,17 @@
 			(pintype "unspecified")
 			(uuid "fd7bb4fe-3e04-475a-a1c6-ee6cfcbaf50d")
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "RC0603FR_0760K4L:RC0603N_YAG"
@@ -2831,6 +2897,17 @@
 				(pts
 					(xy 207.6077 108.194399) (xy 208.2935 108.194399) (xy 208.2935 108.905599) (xy 207.6077 108.905599)
 				)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 		(embedded_fonts no)
@@ -3289,6 +3366,17 @@
 			(pinfunction "VIN_3")
 			(pintype "unspecified")
 			(uuid "968fb4ab-0a38-4d89-9c14-2428028a9a44")
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 		(embedded_fonts no)
 	)
@@ -3860,6 +3948,17 @@
 			(pintype "unspecified")
 			(uuid "a5aa49f5-1589-4442-afb2-812527c86e0d")
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "RC0603FR_0760K4L:RC0603N_YAG"
@@ -4164,6 +4263,17 @@
 				)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "C0603C105K3RACTU:CAPC17595_95N_KEM"
@@ -4446,6 +4556,17 @@
 				(pts
 					(xy 191.6742 108.924199) (xy 191.3258 108.924199) (xy 191.3258 108.075801) (xy 191.6742 108.075801)
 				)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 		(embedded_fonts no)
@@ -4752,6 +4873,17 @@
 				)
 			)
 		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 		(embedded_fonts no)
 	)
 	(footprint "C0603C105K3RACTU:CAPC17595_95N_KEM"
@@ -5034,6 +5166,17 @@
 				(pts
 					(xy 196.053599 108.075801) (xy 196.401999 108.075801) (xy 196.401999 108.924199) (xy 196.053599 108.924199)
 				)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 		(embedded_fonts no)
@@ -5338,6 +5481,17 @@
 				(pts
 					(xy 197.0682 115.8556) (xy 196.3824 115.8556) (xy 196.3824 115.1444) (xy 197.0682 115.1444)
 				)
+			)
+		)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 		(embedded_fonts no)
