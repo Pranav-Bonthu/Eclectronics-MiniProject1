@@ -1,0 +1,16 @@
+# Normalise line endings so KiCad/LTspice files don't churn between machines.
+* text=auto eol=lf
+
+# EDA and binary assets -- never touch these
+*.kicad_pcb  text eol=lf
+*.kicad_sch  text eol=lf
+*.kicad_sym  text eol=lf
+*.kicad_mod  text eol=lf
+*.asc        text eol=lf
+*.gbr        text eol=lf
+*.gbrjob     text eol=lf
+
+*.png  binary
+*.pdf  binary
+*.zip  binary
+*.raw  binary

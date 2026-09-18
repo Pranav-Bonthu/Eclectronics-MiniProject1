@@ -1,0 +1,1418 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\pbonthu\OneDrive - Olin College of Engineering\Documents\LTspice\eclectronicsmp12.net
+Start Time: Wed Sep 16 23:00:51 2026
+
+.step run=1
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=2
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=3
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=4
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=5
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=6
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=7
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=8
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=9
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=10
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=11
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=12
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=13
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=14
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=15
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=16
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=17
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=18
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=19
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=20
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=21
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=22
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=23
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=24
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=25
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=26
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=27
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=28
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=29
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=30
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=31
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=32
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=33
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=34
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=35
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=36
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=37
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=38
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=39
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=40
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=41
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=42
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=43
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=44
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=45
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=46
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=47
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=48
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=49
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=50
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=51
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=52
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=53
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=54
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=55
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=56
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=57
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=58
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=59
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=60
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=61
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=62
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=63
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=64
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=65
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=66
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=67
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=68
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=69
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=70
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=71
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=72
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=73
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=74
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=75
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=76
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=77
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=78
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=79
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=80
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=81
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=82
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=83
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=84
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=85
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=86
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=87
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=88
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=89
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=90
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=91
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=92
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=93
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=94
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=95
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=96
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=97
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=98
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=99
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=100
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=101
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=102
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=103
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=104
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=105
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=106
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=107
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=108
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=109
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=110
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=111
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=112
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=113
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=114
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=115
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=116
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=117
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=118
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=119
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=120
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=121
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=122
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=123
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=124
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=125
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=126
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=127
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=128
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=129
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=130
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=131
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=132
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=133
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=134
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=135
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=136
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=137
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=138
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=139
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=140
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=141
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=142
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=143
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=144
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=145
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=146
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=147
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=148
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=149
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=150
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=151
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=152
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=153
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=154
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=155
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=156
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=157
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=158
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=159
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=160
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=161
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=162
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=163
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=164
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=165
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=166
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=167
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=168
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=169
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=170
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=171
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=172
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=173
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=174
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=175
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=176
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=177
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=178
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=179
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=180
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=181
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=182
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=183
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=184
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=185
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=186
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=187
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=188
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=189
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=190
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=191
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=192
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=193
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=194
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=195
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=196
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=197
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=198
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=199
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step run=200
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 40.928 seconds.
+
+Files loaded:
+C:\Users\pbonthu\OneDrive - Olin College of Engineering\Documents\LTspice\eclectronicsmp12.net
+C:\Users\pbonthu\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\pbonthu\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
+
+Measurement: tperiod
+  step	tperiod	FROM	TO
+     1	0.967409317855	2.01768280706	2.98509212492
+     2	1.04247213352	2.17425788525	3.21673001877
+     3	0.93336646705	1.94690170492	2.88026817197
+     4	0.98692674365	2.05690233483	3.04382907848
+     5	0.97992619102	2.04329392825	3.02322011927
+     6	0.969967697297	2.02050130125	2.99046899855
+     7	1.00159801766	2.08887823145	3.09047624911
+     8	0.988644024487	2.06047800964	3.04912203413
+     9	0.947204962618	1.97400711281	2.92121207543
+    10	1.02742319278	2.14132615202	3.1687493448
+    11	0.991213930115	2.06627381054	3.05748774065
+    12	1.01264909547	2.1108534538	3.12350254927
+    13	1.0323061824	2.15065622395	3.18296240635
+    14	1.00993329903	2.10561773116	3.11555103018
+    15	0.995328425858	2.07498246425	3.0703108901
+    16	0.980856800259	2.0434169571	3.02427375736
+    17	0.986751318864	2.05596912121	3.04272044007
+    18	0.983073196257	2.04891938796	3.03199258422
+    19	1.03409204811	2.15606751922	3.19015956733
+    20	0.989182073433	2.06130564271	3.05048771615
+    21	1.024779291	2.13715559889	3.1619348899
+    22	0.993798151328	2.0717545254	3.06555267672
+    23	1.02537898955	2.13628138287	3.16166037242
+    24	0.980307962769	2.04436461875	3.02467258151
+    25	0.956022883219	1.99337575076	2.94939863398
+    26	0.943415453918	1.96659714169	2.91001259561
+    27	0.954204556013	1.9874098583	2.94161441431
+    28	0.985351704964	2.05353464567	3.03888635063
+    29	0.950972244514	1.98168296184	2.93265520635
+    30	0.950378834055	1.9808116957	2.93119052975
+    31	1.02919570032	2.14453637924	3.17373207956
+    32	0.978804231705	2.04076834198	3.01957257368
+    33	0.961756628825	2.00434197485	2.96609860368
+    34	0.952579582798	1.98704878437	2.93962836717
+    35	0.978356997257	2.0375294291	3.01588642636
+    36	0.975571818466	2.0317828877	3.00735470616
+    37	0.995466062738	2.07530080335	3.07076686609
+    38	0.983052413763	2.04877753511	3.03182994887
+    39	0.947233807895	1.97347674684	2.92071055473
+    40	0.991420841427	2.06497281896	3.05639366039
+    41	0.979853283509	2.04104529397	3.02089857748
+    42	0.973800427429	2.02911879474	3.00291922217
+    43	0.956761529208	1.99463620324	2.95139773245
+    44	1.03953156525	2.16833539063	3.20786695588
+    45	0.968185433658	2.01662990689	2.98481534054
+    46	0.966059593485	2.01285273162	2.97891232511
+    47	0.981945629119	2.04737590001	3.02932152913
+    48	1.02994437589	2.14689877281	3.1768431487
+    49	0.970714574038	2.02333121356	2.9940457876
+    50	1.0043235523	2.09454024979	3.09886380209
+    51	1.04599595994	2.17917785282	3.22517381277
+    52	0.966441961177	2.01470469827	2.98114665945
+    53	0.981068010954	2.04584955258	3.02691756354
+    54	1.01512884665	2.11460857927	3.12973742592
+    55	1.00613304347	2.09849011079	3.10462315426
+    56	0.981163489442	2.04473344611	3.02589693556
+    57	0.992233703412	2.06864488317	3.06087858658
+    58	1.01441854074	2.11260823843	3.12702677917
+    59	0.950852387833	1.98134651973	2.93219890756
+    60	1.03299407612	2.15173633508	3.1847304112
+    61	0.936773722853	1.95237754512	2.88915126797
+    62	0.963806826396	2.00891822438	2.97272505078
+    63	1.01823402328	2.122857537	3.14109156028
+    64	0.948441502992	1.97815967484	2.92660117783
+    65	0.964663877305	2.01075685857	2.97542073588
+    66	1.00828843431	2.10027599138	3.10856442569
+    67	0.987427106278	2.0579027254	3.04532983168
+    68	0.953404367005	1.98682195103	2.94022631803
+    69	1.04502242124	2.17823793798	3.22326035921
+    70	1.0149537856	2.11489906173	3.12985284733
+    71	0.938693367177	1.95672910795	2.89542247512
+    72	0.95179279635	1.98260941039	2.93440220674
+    73	0.983613315443	2.05142374674	3.03503706218
+    74	1.03845781791	2.16572295483	3.20418077274
+    75	0.96564533333	2.01288010108	2.97852543441
+    76	0.946584940265	1.97258894229	2.91917388256
+    77	1.01904922052	2.12357461214	3.14262383267
+    78	0.973331217844	2.02914479656	3.0024760144
+    79	0.94748316598	1.97513883451	2.92262200049
+    80	1.04228684379	2.17363594715	3.21592279094
+    81	0.959014748002	1.99724333437	2.95625808237
+    82	1.03492475402	2.15659064643	3.19151540045
+    83	0.984374933484	2.05084710477	3.03522203826
+    84	0.980296947099	2.04214652219	3.02244346929
+    85	1.031886721	2.15107639848	3.18296311948
+    86	0.9656523167	2.01159112765	2.97724344435
+    87	0.973552236782	2.02911106246	3.00266329924
+    88	0.983692363912	2.04975850512	3.03345086903
+    89	1.02817844415	2.14345999272	3.17163843687
+    90	0.956437873437	1.99418371166	2.9506215851
+    91	1.04135500371	2.17093362682	3.21228863053
+    92	0.97295685832	2.02767054833	3.00062740665
+    93	0.965098685448	2.01039397602	2.97549266146
+    94	1.02362516784	2.13325419404	3.15687936188
+    95	0.997618285398	2.0795532894	3.0771715748
+    96	1.0144601604	2.11234321848	3.12680337889
+    97	0.987808605593	2.05916027317	3.04696887876
+    98	1.01097678403	2.10767762666	3.11865441069
+    99	1.01709739189	2.12082700222	3.13792439411
+   100	0.962449223888	2.00609414355	2.96854336744
+   101	1.0165920127	2.11847827724	3.13507028994
+   102	0.97416263382	2.03003825797	3.00420089179
+   103	0.966172268753	2.01431531162	2.98048758037
+   104	1.00218579465	2.08966424778	3.09185004242
+   105	0.956619819415	1.99355311872	2.95017293813
+   106	1.02535064742	2.13683605384	3.16218670127
+   107	0.99720627608	2.07887902077	3.07608529685
+   108	0.957225967429	1.99521526787	2.9524412353
+   109	1.00961194732	2.10375193925	3.11336388656
+   110	0.985906631586	2.05448608451	3.0403927161
+   111	1.02340073685	2.13408665757	3.15748739441
+   112	1.01354962529	2.11222753259	3.12577715788
+   113	0.96712700426	2.0167894112	2.98391641546
+   114	0.941427749491	1.96219453171	2.9036222812
+   115	1.02421671179	2.13392336788	3.15814007967
+   116	0.978711869912	2.03887417178	3.01758604169
+   117	0.942806551903	1.96494128292	2.90774783482
+   118	1.01655029643	2.11911146836	3.13566176479
+   119	0.99557165273	2.0746014109	3.07017306363
+   120	0.983241034717	2.05004661051	3.03328764523
+   121	0.978748059067	2.04035491474	3.01910297381
+   122	0.987385767779	2.05693205969	3.04431782746
+   123	0.980813278506	2.04369204227	3.02450532078
+   124	0.954122552156	1.98996935895	2.9440919111
+   125	1.00889443792	2.10330918602	3.11220362394
+   126	1.01330343203	2.11111972193	3.12442315397
+   127	1.00457031366	2.0937849865	3.09835530016
+   128	1.01091884888	2.10790691967	3.11882576855
+   129	0.991879682923	2.0661193679	3.05799905083
+   130	1.02830215743	2.14306950337	3.1713716608
+   131	0.990950679601	2.06510719769	3.05605787729
+   132	1.0114526201	2.10859894145	3.12005156156
+   133	0.962533161119	2.00622238934	2.96875555046
+   134	0.961879182102	2.00594811418	2.96782729628
+   135	0.968602486493	2.01906857731	2.9876710638
+   136	1.02023741526	2.12772348004	3.1479608953
+   137	1.00810022991	2.10257225255	3.11067248246
+   138	1.0429435952	2.17397225713	3.21691585233
+   139	0.9839682492	2.05156519481	3.03553344401
+   140	1.01793378186	2.12119126477	3.13912504663
+   141	1.03670259288	2.16068819527	3.19739078815
+   142	0.992985306187	2.06963623305	3.06262153924
+   143	1.03385390667	2.15632429908	3.19017820575
+   144	1.01795280744	2.12196049735	3.13991330479
+   145	0.995597146997	2.07564177871	3.0712389257
+   146	0.950298832247	1.97993365714	2.93023248939
+   147	0.981023912639	2.04480529218	3.02582920482
+   148	0.964375648564	2.01091185805	2.97528750661
+   149	1.01963260482	2.12470473431	3.14433733913
+   150	1.04083418771	2.16950066533	3.21033485304
+   151	0.935580891411	1.95046280699	2.8860436984
+   152	1.00612507508	2.09724586445	3.10337093953
+   153	1.02240103929	2.13017973184	3.15258077113
+   154	1.03044445409	2.1475633428	3.1780077969
+   155	1.02769396793	2.14303630825	3.17073027619
+   156	0.982476284249	2.04618365684	3.02865994109
+   157	0.986451388439	2.05585299402	3.04230438246
+   158	0.972437520387	2.02701777176	2.99945529215
+   159	0.955357561284	1.98978786147	2.94514542275
+   160	0.992811103725	2.06943181045	3.06224291418
+   161	0.956432872878	1.99277445736	2.94920733024
+   162	0.950385570468	1.98090486527	2.93129043574
+   163	1.03984583791	2.16649302356	3.20633886148
+   164	0.981598942619	2.0458305131	3.02742945572
+   165	1.03006249926	2.14714195563	3.17720445489
+   166	0.940919596027	1.96180178251	2.90272137853
+   167	1.04492581856	2.17626623373	3.22119205229
+   168	0.993207545843	2.06841147162	3.06161901746
+   169	0.984760295674	2.05358384411	3.03834413978
+   170	0.972258965488	2.02463599831	2.9968949638
+   171	1.00812554526	2.10149738814	3.10962293341
+   172	0.98638507576	2.05650709826	3.04289217402
+   173	0.983417648857	2.05139691771	3.03481456657
+   174	0.953464687101	1.98681170546	2.94027639256
+   175	1.00043526323	2.08617063137	3.0866058946
+   176	0.972396007801	2.02782718414	3.00022319194
+   177	0.953351760913	1.98676250136	2.94011426227
+   178	0.94673745843	1.97239281159	2.91913027002
+   179	0.982466949009	2.04765808874	3.03012503775
+   180	1.01393941883	2.11304996313	3.12698938196
+   181	1.03205013828	2.15107709874	3.18312723703
+   182	1.05063209492	2.18802898148	3.2386610764
+   183	0.985224088626	2.05386817104	3.03909225967
+   184	0.997183718246	2.07760100731	3.07478472555
+   185	0.952041780049	1.98581050144	2.93785228149
+   186	1.04085161833	2.16918750023	3.21003911856
+   187	1.02336241221	2.13177177702	3.15513418923
+   188	0.99229038508	2.06836142163	3.06065180671
+   189	1.01828480894	2.12368013117	3.14196494011
+   190	1.02175365862	2.12871496715	3.15046862577
+   191	0.989875091856	2.06331753169	3.05319262354
+   192	1.0076011531	2.10025574934	3.10785690244
+   193	0.975521745526	2.03267379601	3.00819554154
+   194	1.03202888423	2.1503487567	3.18237764093
+   195	0.966379418855	2.01398669887	2.98036611773
+   196	0.947483252983	1.974148639	2.92163189198
+   197	0.950760185508	1.981963661	2.93272384651
+   198	0.970603367941	2.02431563786	2.9949190058
+   199	1.03126637398	2.14977533776	3.18104171173
+   200	0.966704515836	2.0148104145	2.98151493034

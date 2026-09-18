@@ -1,0 +1,24 @@
+# KiCad — per-user editor state, caches, backups, locks
+*.kicad_prl
+*-backups/
+fp-info-cache
+~*.lck
+.history/
+
+# KiCad — regenerable outputs
+*.net
+!ltspice/montecarlo.net
+
+# LTSpice — solver output. Large and unviewable; regenerate by running the sim.
+*.raw
+*.op.raw
+*.db
+ltspice/*.txt
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# scratch output from tools/generate_assets.ps1
+.tmp/

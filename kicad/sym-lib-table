@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP1702T_3302E_CB")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCP1702T_3302E_CB/MCP1702T_3302E_CB.kicad_sym")(options "")(descr "MCP1702T-3302E/CB LDO regulator, from DigiKey"))
+  (lib (name "RC0603FR_07100KL")(type "KiCad")(uri "${KIPRJMOD}/libraries/RC0603FR_07100KL/RC0603FR_07100KL.kicad_sym")(options "")(descr "RC0603FR-07100KL 100k resistor, from DigiKey"))
+  (lib (name "RC0603FR_07301RL")(type "KiCad")(uri "${KIPRJMOD}/libraries/RC0603FR_07301RL/RC0603FR_07301RL.kicad_sym")(options "")(descr "301 ohm 0603 resistor, from DigiKey"))
+  (lib (name "C0603C105K3RACTU")(type "KiCad")(uri "${KIPRJMOD}/libraries/C0603C105K3RACTU/C0603C105K3RACTU.kicad_sym")(options "")(descr "1uF 0603 ceramic capacitor, from DigiKey"))
+  (lib (name "RC0603FR_0760K4L")(type "KiCad")(uri "${KIPRJMOD}/libraries/RC0603FR_0760K4L/RC0603FR_0760K4L.kicad_sym")(options "")(descr "60.4k ohm 0603 resistor, from DigiKey"))
+  (lib (name "RC0603FR_07301KL")(type "KiCad")(uri "${KIPRJMOD}/libraries/RC0603FR_07301KL/RC0603FR_07301KL.kicad_sym")(options "")(descr "301k ohm 0603 resistor, from DigiKey"))
+  (lib (name "RC0603FR_07200RL")(type "KiCad")(uri "${KIPRJMOD}/libraries/RC0603FR_07200RL/RC0603FR_07200RL.kicad_sym")(options "")(descr "200 ohm 0603 resistor, from DigiKey"))
+  (lib (name "480370001")(type "KiCad")(uri "${KIPRJMOD}/libraries/480370001/480370001.kicad_sym")(options "")(descr "480370001 Molex connector, from DigiKey"))
+  (lib (name "MCP6021T_E_OT")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCP6021T_E_OT/MCP6021T_E_OT.kicad_sym")(options "")(descr "MCP6021T-E/OT op-amp, from DigiKey"))
+  (lib (name "LTST_C171KRKT")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTST_C171KRKT/LTST_C171KRKT.kicad_sym")(options "")(descr "LTST-C171KRKT LED, from DigiKey"))
+)
