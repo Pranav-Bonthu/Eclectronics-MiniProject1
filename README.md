@@ -1,5 +1,5 @@
 # Eclectronics Mini-Project 1
-
+Final right up can be found here: docs/
 <p align="center">
   <img src="images/pcb-3d-iso.png" alt="3D render of the assembled board" width="90%">
 </p>
