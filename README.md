@@ -6,6 +6,20 @@
 
 ---
 
+## Simulation
+
+<p align="center">
+  <img src="images/ltspice-schematic.png" alt="LTspice schematic" width="90%">
+</p>
+
+200-run Monte Carlo over 1 % resistor and 5 % capacitor tolerances:
+
+<p align="center">
+  <img src="images/ltspice-simulation.png" alt="V(vout) across 200 Monte Carlo runs" width="68%">
+</p>
+
+---
+
 ## Schematic
 
 <p align="center">
