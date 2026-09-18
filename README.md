@@ -6,26 +6,6 @@
 
 ---
 
-## Simulation
-
-<p align="center">
-  <img src="images/ltspice-schematic.png" alt="LTspice schematic" width="88%">
-</p>
-
-200-run Monte Carlo over 1 % resistor and 5 % capacitor tolerances:
-
-<p align="center">
-  <img src="images/montecarlo-waveforms.png" alt="V(vout) across 200 Monte Carlo runs" width="92%">
-</p>
-
-<p align="center">
-  <img src="images/montecarlo-period-histogram.png" alt="Distribution of blink period across 200 runs" width="92%">
-</p>
-
-Measured periods: [`ltspice/tperiod-montecarlo.csv`](ltspice/tperiod-montecarlo.csv)
-
----
-
 ## Schematic
 
 <p align="center">
