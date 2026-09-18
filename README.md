@@ -1,9 +1,4 @@
-# Eclectronics Mini-Project 1 — Op-Amp LED Blinker
-
-A 35 × 20 mm two-layer PCB that blinks an LED once per second, using no
-microcontroller and no 555 — just two op-amps, an RC network, and a 3.3 V
-regulator. Designed from scratch in LTspice, verified against component
-tolerances with a 200-run Monte Carlo sweep, then laid out in KiCad.
+# Eclectronics Mini-Project 1
 
 <p align="center">
   <img src="images/pcb-3d-iso.png" alt="3D render of the assembled board" width="90%">
