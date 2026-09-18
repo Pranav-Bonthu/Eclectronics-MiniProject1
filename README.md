@@ -12,37 +12,32 @@
   <img src="images/kicad-schematic.png" alt="KiCad schematic" width="94%">
 </p>
 
-Full-resolution PDF: [`docs/kicad-schematic.pdf`](docs/kicad-schematic.pdf)
+PDF: [`docs/kicad-schematic.pdf`](docs/kicad-schematic.pdf)
 
 ---
 
 ## The board
 
-Two layers, 35 × 20 mm, 15 components, entirely 0603 passives and SOT-23
-actives.
 
 | Top | Bottom |
 |---|---|
 | <img src="images/pcb-3d-top.png" alt="Top of the board"> | <img src="images/pcb-3d-bottom.png" alt="Bottom of the board"> |
 
-Copper and silkscreen, as plotted for fabrication:
 
 | Front (F.Cu + silkscreen) | Back (B.Cu) |
 |---|---|
 | <img src="images/pcb-front.png" alt="Front copper and silkscreen"> | <img src="images/pcb-back.png" alt="Back copper"> |
 
-Gerbers are in [`fabrication/`](fabrication/), zipped and ready to upload.
 
 ---
 
 ## Repository layout
 
 ```
-kicad/        KiCad 10 project — schematic, board, and the
+kicad/        KiCad 10 project: schematic, board, and the
               symbol/footprint libraries it depends on
-ltspice/      Simulation deck, netlist, solver log, extracted results
-fabrication/  Gerbers + zipped fab package
+ltspice/      Simulation and results
+fabrication/  Gerbers 
 docs/         Project write-up and schematic PDF
-images/       Every figure in this README — all generated, none hand-made
-tools/        The scripts that generate them
+images/       Images for the README    
 ```
